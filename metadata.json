@@ -1,1 +1,7 @@
-
+{
+  "name": "Bold Koala",
+  "website": "https://github.com/boldkoala4615",
+  "description": "Running nodes and validators since 1999",
+  "logo": "https://github.com/boldkoala4615/eigenlayer-node/blob/main/logo.png?raw=true",
+  "twitter": "https://x.com/example"
+}
